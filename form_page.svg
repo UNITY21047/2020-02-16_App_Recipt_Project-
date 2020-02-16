@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66667 158.75"
+   version="1.1"
+   id="svg686"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="form_page.svg">
+  <defs
+     id="defs680" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="551.09799"
+     inkscape:cy="234.5441"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1124"
+     inkscape:window-height="681"
+     inkscape:window-x="104"
+     inkscape:window-y="104"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata683">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Form_Layout"
+     inkscape:groupmode="layer"
+     id="Form_Layout"
+     transform="translate(0,-138.25001)">
+    <rect
+       style="fill:#2c302e;fill-opacity:1;stroke:none;stroke-width:0.30819947"
+       id="Form_Background"
+       width="211.66667"
+       height="158.75"
+       x="0"
+       y="138.25002"
+       inkscape:label="Form_Background" />
+    <g
+       id="Form_Assets"
+       transform="translate(-2.8306429,4.3672961)"
+       inkscape:label="Form_Assets">
+      <g
+         inkscape:label="EDIT"
+         transform="matrix(0.57579007,0,0,0.57579007,-79.121703,301.88178)"
+         id="EDIT"
+         style="stroke-width:1.73674083">
+        <rect
+           inkscape:label="EDIT_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.66129565;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="EDIT_Bounds"
+           width="42.33342"
+           height="18.52087"
+           x="310.77463"
+           y="-264.58261" />
+        <text
+           inkscape:label="EDIT_Text"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28891087px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45951352"
+           x="319.29919"
+           y="-251.36995"
+           id="EDIT_Text"><tspan
+             sodipodi:role="line"
+             id="tspan5038"
+             x="319.29919"
+             y="-251.36995"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28890991px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.45951352">EDIT</tspan></text>
+      </g>
+      <g
+         inkscape:label="BACK"
+         transform="matrix(0.57579007,0,0,0.57579007,14.506388,161.72532)"
+         id="BACK"
+         style="stroke-width:1.73674083">
+        <rect
+           inkscape:label="BACK_Bounds"
+           y="-21.166706"
+           x="291.04187"
+           height="18.52087"
+           width="42.33342"
+           id="BACK_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.66129565;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <text
+           inkscape:label="BACK_Text"
+           id="BACK_Text"
+           y="-7.9568062"
+           x="296.995"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28890991px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45951352"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28890991px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.45951352"
+             y="-7.9568062"
+             x="296.995"
+             id="tspan5046"
+             sodipodi:role="line">BACK</tspan></text>
+      </g>
+      <g
+         inkscape:label="SAVE"
+         transform="matrix(0.57579007,0,0,0.57579007,11.154818,159.2878)"
+         id="SAVE"
+         style="stroke-width:1.73674083">
+        <rect
+           inkscape:label="SAVE_Bounds"
+           y="-16.933367"
+           x="225.42505"
+           height="18.52087"
+           width="42.33342"
+           id="SAVE_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.66129565;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <text
+           inkscape:label="SAVE_Text"
+           id="SAVE_Text"
+           y="-3.7234669"
+           x="232.9216"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28891087px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45951352"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28890991px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.45951352"
+             y="-3.7234669"
+             x="232.9216"
+             id="tspan5165"
+             sodipodi:role="line">SAVE</tspan></text>
+      </g>
+      <g
+         inkscape:label="Items"
+         style="stroke-width:1.73674083"
+         transform="matrix(0.57579007,0,0,0.57579007,-79.121703,301.88177)"
+         id="Items">
+        <rect
+           inkscape:label="Item_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:2.50448084;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Item_Bounds"
+           width="185.20868"
+           height="192.4707"
+           x="310.77463"
+           y="-238.35696" />
+        <rect
+           inkscape:label="Items_Square"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5557332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Items_Square"
+           width="166.79463"
+           height="175.44112"
+           x="319.95294"
+           y="-230.95015" />
+      </g>
+      <g
+         inkscape:label="Name"
+         style="display:inline"
+         id="Name">
+        <rect
+           inkscape:label="Name_Bounds"
+           y="150.31628"
+           x="10.86739"
+           height="15.795758"
+           width="78.978783"
+           id="Name_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.80451798;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <text
+           inkscape:label="Name_Text"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10463619px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16114168"
+           x="17.993584"
+           y="155.5957"
+           id="Name_Text"><tspan
+             sodipodi:role="line"
+             id="tspan5194"
+             x="17.993584"
+             y="155.5957"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168">Name</tspan></text>
+        <rect
+           inkscape:label="Name_Text_Box"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Name_Text_Box"
+           width="63.972816"
+           height="4.7387271"
+           x="18.370375"
+           y="158.96794" />
+      </g>
+      <g
+         inkscape:label="Date"
+         id="Date">
+        <rect
+           inkscape:label="Date_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.80451798;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Date_Bounds"
+           width="78.978783"
+           height="15.795758"
+           x="10.86739"
+           y="168.7939" />
+        <text
+           inkscape:label="Date_Text"
+           id="Date_Text"
+           y="174.0733"
+           x="17.993584"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10463619px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16114168"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168"
+             y="174.0733"
+             x="17.993584"
+             id="tspan5278"
+             sodipodi:role="line">Date</tspan></text>
+        <rect
+           inkscape:label="Date_Text_Box"
+           y="177.44554"
+           x="18.370375"
+           height="4.7387271"
+           width="63.972816"
+           id="Date_Text_Box"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      </g>
+      <g
+         inkscape:label="Location"
+         id="Location">
+        <rect
+           inkscape:label="Location_Bounds"
+           y="187.27151"
+           x="10.86739"
+           height="15.795758"
+           width="78.978783"
+           id="Location_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.80451798;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <text
+           inkscape:label="Location_Text"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10463619px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16114168"
+           x="17.993584"
+           y="192.61407"
+           id="Location_Text"><tspan
+             sodipodi:role="line"
+             id="tspan5286"
+             x="17.993584"
+             y="192.61407"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168">Location</tspan></text>
+        <rect
+           inkscape:label="Location_Text_Box"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Location_Text_Box"
+           width="63.972816"
+           height="4.7387271"
+           x="18.370375"
+           y="195.98631" />
+      </g>
+      <g
+         inkscape:label="Number"
+         id="Number">
+        <rect
+           inkscape:label="Number_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.80451798;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Number_Bounds"
+           width="78.978783"
+           height="15.795758"
+           x="10.86739"
+           y="205.74913" />
+        <text
+           inkscape:label="Number_Text"
+           id="Number_Text"
+           y="211.1107"
+           x="17.993584"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10463619px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16114168"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168"
+             y="211.1107"
+             x="17.993584"
+             id="tspan5294"
+             sodipodi:role="line">Number</tspan></text>
+        <rect
+           inkscape:label="Number_Text_Box"
+           y="214.48294"
+           x="18.370375"
+           height="4.7387271"
+           width="63.972816"
+           id="Number_Text_Box"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      </g>
+      <g
+         inkscape:label="Tax"
+         id="Tax">
+        <rect
+           inkscape:label="Tax_Bounds"
+           y="224.22672"
+           x="10.86739"
+           height="15.795758"
+           width="78.978783"
+           id="Tax_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.80451798;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <text
+           inkscape:label="Tax_Text"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10463619px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16114168"
+           x="17.993584"
+           y="229.5883"
+           id="Tax_Text"><tspan
+             sodipodi:role="line"
+             id="tspan443"
+             x="17.993584"
+             y="229.5883"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168">Tax</tspan></text>
+        <rect
+           inkscape:label="Tax_Text_Box"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Tax_Text_Box"
+           width="63.972816"
+           height="4.7387271"
+           x="18.370375"
+           y="232.96054" />
+      </g>
+      <g
+         inkscape:label="Total"
+         id="Total">
+        <rect
+           inkscape:label="Total_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.80451798;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Total_Bounds"
+           width="78.978783"
+           height="15.795758"
+           x="10.86739"
+           y="242.70435" />
+        <text
+           inkscape:label="Total_Text"
+           id="Total_Text"
+           y="248.06593"
+           x="17.993584"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10463619px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16114168"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168"
+             y="248.06593"
+             x="17.993584"
+             id="tspan455"
+             sodipodi:role="line">Total</tspan></text>
+        <rect
+           inkscape:label="Total_Text_Box"
+           y="251.43817"
+           x="18.370375"
+           height="4.7387271"
+           width="63.972816"
+           id="Total_Text_Box"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      </g>
+      <g
+         inkscape:label="Given"
+         id="Given">
+        <rect
+           inkscape:label="Given_Bounds"
+           y="261.18195"
+           x="10.86739"
+           height="15.795758"
+           width="78.978783"
+           id="Given_Bounds"
+           style="opacity:1;fill:#686868;fill-opacity:1;stroke:none;stroke-width:0.80451798;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <text
+           inkscape:label="Given_Text"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.10463619px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16114168"
+           x="17.993584"
+           y="266.54355"
+           id="Given_Text"><tspan
+             sodipodi:role="line"
+             id="Given_Text"
+             x="17.993584"
+             y="266.54355"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168">Given</tspan></text>
+        <rect
+           inkscape:label="Given_Text_Box"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="Given_Text_Box"
+           width="63.972816"
+           height="4.7387271"
+           x="18.370375"
+           y="269.91577" />
+      </g>
+    </g>
+  </g>
+</svg>
