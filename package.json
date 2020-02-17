@@ -1,14 +1,23 @@
 {
   "name": "electron-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Change the 'project.json' file to match the project. Change the 'node' to 'electron' in the test scetion.",
   "main": "index.js",
   "scripts": {
     "test": "electron ."
   },
-  "author": "",
+  "author": "Gary Smith II",
   "license": "ISC",
   "devDependencies": {
     "electron": "^8.0.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UNITY21047/2020-02-16_App_Recipt_Project-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UNITY21047/2020-02-16_App_Recipt_Project-/issues"
+  },
+  "homepage": "https://github.com/UNITY21047/2020-02-16_App_Recipt_Project-#readme"
 }
