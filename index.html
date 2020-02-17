@@ -6,7 +6,7 @@
     <!-- https://electronjs.org/docs/tutorial/security#csp-meta-tag -->
     <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
   </head>
-  <body>
+  <body id="bod">
     <!-- <img 
     src="C:\Users\werty\Downloads\tests\test-bash_scripts\electron-project\form_page.svg" 
     alt=":( Page layout not found!"
@@ -18,10 +18,21 @@
       body {
         /*padding: 0;*/
         margin: 0;
-        width: 800px;
-        height: 600px;
+        /*width: 800px;
+        height: 600px;*/
       }
-      
+      #FORM
+      {
+         z-index: -1;
+      }
+      #Date_Form
+      {
+         position: absolute;
+      }
+      #Name_Form
+      {
+         position: absolute;
+      }
     </style>
     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <!-- Created with Inkscape (http://www.inkscape.org/) -->
@@ -38,7 +49,7 @@
        height="600"
        viewBox="0 0 211.66667 158.75"
        version="1.1"
-       id="svg686"
+       id="FORM"
        inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
        sodipodi:docname="form_page.svg">
       <defs
@@ -217,9 +228,9 @@
                  y="155.5957"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168">Name</tspan></text>
             <rect
-               inkscape:label="Name_Text_Box"
+               inkscape:label="Name_Text_Box_Bounds"
                style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-               id="Name_Text_Box"
+               id="Name_Text_Box_Bounds"
                width="63.972816"
                height="4.7387271"
                x="18.370375"
@@ -254,7 +265,7 @@
                x="18.370375"
                height="4.7387271"
                width="63.972816"
-               id="Date_Text_Box"
+               id="Date_Text_Box_Bounds"
                style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
           </g>
           <g
@@ -340,7 +351,7 @@
                y="229.5883"
                id="Tax_Text"><tspan
                  sodipodi:role="line"
-                 id="tspan443"
+                 id="IN_Tax"
                  x="17.993584"
                  y="229.5883"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;fill-opacity:1;stroke-width:0.16114168">Tax</tspan></text>
@@ -419,6 +430,32 @@
           </g>
         </g>
       </g>
-    </svg>    
-  </body>
+    </svg> 
+   <form id="Date_Form">
+      <input type="text" id="Date_Text_Box">
+   </form>
+   <form id=" Name_Form">
+      <input type="text" id="Name_Text_Box">
+   </form>  
+   <script>
+      
+      document.getElementById('bod').style.height = '600px';
+      document.getElementById('bod').style.width = '800px';
+   
+      let Date_Form = document.getElementById("Date_Form");
+      let Date_Text_Box = document.getElementById("Date_Text_Box");
+
+      Date_Form.style.bottom = '485px';
+      Date_Form.style.right = '499px';
+      Date_Text_Box.style.width = '238.5px';
+
+      let Name_Form = document.getElementById("Name_Form");
+      let Name_Text_Box = document.getElementById("Name_Text_Box");
+
+      Name_Form.style.bottom = '485px';
+      Name_Form.style.right = '499px';
+      Name_Text_Box.style.width = '238.5px';
+
+   </script>
+   </body>
 </html>

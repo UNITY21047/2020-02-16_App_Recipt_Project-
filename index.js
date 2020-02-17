@@ -1,10 +1,9 @@
 const { app, BrowserWindow } = require('electron')
+const  ipc = require("electron").ipcMain;
 
-let WIDTH = 813;
-let HEIGHT = 657;
-//document.getElementsByName('body').style.width = WIDTH;
-//document.getElementById('Form_Background').width = WIDTH;
-//document.getElementById('Form_Background').height = HEIGHT;
+let WIDTH = 804;
+let HEIGHT = 648;
+
 
 function createWindow () {
   // Create the browser window.
@@ -13,7 +12,8 @@ function createWindow () {
     height: HEIGHT,
     webPreferences: {
       nodeIntegration: true
-    }
+    },
+    resizable: false
   })
   
   // and load the index.html of the app.
@@ -48,4 +48,23 @@ app.on('activate', () => {
 // In this file you can include the rest of your app's specific main process
 // code. You can also put them in separate files and require them here.
 
-//app.webFrame.executeJavaScript(document.getElementsByName('body').style.height = HEIGHT);
+//Run code on the window.
+ipc.on('load',function()
+{
+  
+  
+  
+});
+
+//ipc.on('on',function()
+//{
+//  let BODY = document.getElementsByTagName('body');
+//  BODY.style.width = WIDTH;
+//  //event.sender.send('done?', BODY.style.height = args);
+//});
+//
+//ipc.on('on',function(event, args = 'Hello')
+//{
+//  let EDIT = document.getElementsById('EDIT');
+// 
+//});
