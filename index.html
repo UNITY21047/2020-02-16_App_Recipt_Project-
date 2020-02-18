@@ -29,9 +29,9 @@
       {
          position: absolute;
       }
-      #Name_Form
+      #Data_Text_Box
       {
-         position: absolute;
+         margin-top: 100px;
       }
     </style>
     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -431,12 +431,8 @@
         </g>
       </g>
     </svg> 
-   <form id="Date_Form">
-      <input type="text" id="Date_Text_Box">
-   </form>
-   <form id=" Name_Form">
-      <input type="text" id="Name_Text_Box">
-   </form>  
+   <input type="text" id="Date_Text_Box">
+   <input type="text" id="Name_Text_Box"> 
    <script>
       
       document.getElementById('bod').style.height = '600px';
@@ -444,16 +440,11 @@
    
       let Date_Form = document.getElementById("Date_Form");
       let Date_Text_Box = document.getElementById("Date_Text_Box");
-
-      Date_Form.style.bottom = '485px';
-      Date_Form.style.right = '499px';
-      Date_Text_Box.style.width = '238.5px';
-
-      let Name_Form = document.getElementById("Name_Form");
       let Name_Text_Box = document.getElementById("Name_Text_Box");
 
-      Name_Form.style.bottom = '485px';
-      Name_Form.style.right = '499px';
+      Date_Text_Box.style.bottom = '485px';
+      Date_Form.style.right = '499px';
+      Date_Text_Box.style.width = '238.5px';
       Name_Text_Box.style.width = '238.5px';
 
    </script>

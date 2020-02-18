@@ -13,7 +13,7 @@ function createWindow () {
     webPreferences: {
       nodeIntegration: true
     },
-    resizable: false
+    //resizable: false
   })
   
   // and load the index.html of the app.
