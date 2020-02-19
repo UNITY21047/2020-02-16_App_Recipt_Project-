@@ -15,23 +15,21 @@
     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <style>
 
-      body {
-        /*padding: 0;*/
-        margin: 0;
-        /*width: 800px;
-        height: 600px;*/
+      body 
+      {
+         margin: 0;
       }
       #FORM
       {
          z-index: -1;
       }
-      #Date_Form
+      #Date_Div
       {
-         position: absolute;
+         position: fixed;
       }
-      #Data_Text_Box
+      #Name_Div
       {
-         margin-top: 100px;
+         position: fixed;
       }
     </style>
     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -430,22 +428,26 @@
           </g>
         </g>
       </g>
-    </svg> 
-   <input type="text" id="Date_Text_Box">
-   <input type="text" id="Name_Text_Box"> 
+    </svg>
+   <div id = "Date_Div">
+      <input type="text" id="Date_Text_Box">
+   </div>
+   <div id = "Name_Div">
+      <input type="text" id="Date_Text_Box">
+   </div>
    <script>
       
       document.getElementById('bod').style.height = '600px';
       document.getElementById('bod').style.width = '800px';
    
-      let Date_Form = document.getElementById("Date_Form");
-      let Date_Text_Box = document.getElementById("Date_Text_Box");
-      let Name_Text_Box = document.getElementById("Name_Text_Box");
+      let Date_Div = document.getElementById("Date_Div");
+      let Name_Div = document.getElementById("Name_Div");
 
-      Date_Text_Box.style.bottom = '485px';
-      Date_Text_Box.style.right = '499px';
-      Date_Text_Box.style.width = '238.5px';
-      Name_Text_Box.style.width = '238.5px';
+      Date_Div.style.top = "100px";
+      Date_Div.style.left = "100px";
+
+      Name_Div.style.top = "200px";
+      Name_Div.style.left = "100px"
 
    </script>
    </body>
