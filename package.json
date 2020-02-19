@@ -18,5 +18,5 @@
   "devDependencies": {
     "electron": "^8.0.1"
   },
-  "description": ""
+  "description": "TSA project."
 }

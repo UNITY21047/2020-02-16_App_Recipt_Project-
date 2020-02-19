@@ -1,4 +1,4 @@
-cd 
+cd "C:\Users\werty\Downloads\tests\2020-02-16_App_Recipt_Project"
 npm init
 npm install --save-dev electron
 echo Change the directory to the directory of the project. > README.txt
