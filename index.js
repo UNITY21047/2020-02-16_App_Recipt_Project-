@@ -2,7 +2,7 @@ const { app, BrowserWindow } = require('electron')
 const  ipc = require("electron").ipcMain;
 
 let WIDTH = 800;
-let HEIGHT = 600;
+let HEIGHT = 625;
 
 
 function createWindow () {
@@ -13,7 +13,7 @@ function createWindow () {
     webPreferences: {
       nodeIntegration: true
     },
-    //resizable: false
+    resizable: false
   })
   
   // and load the index.html of the app.

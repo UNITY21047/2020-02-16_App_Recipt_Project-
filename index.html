@@ -12,7 +12,6 @@
     alt=":( Page layout not found!"
     height="600"
     width="800" /> -->
-    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <style>
 
       body 
@@ -26,11 +25,27 @@
       #Date_Div
       {
          position: fixed;
+         top: 93px;
+         left: 58px;
       }
       #Name_Div
       {
          position: fixed;
+         top: 163px;
+         left: 58px;
       }
+      /*#Date_Div*/
+      /*{*/
+      /*   position: fixed;*/
+      /*   top: 93px;*/
+      /*   left: 58px;*/
+      /*}*/
+      /*#Name_Div*/
+      /*{*/
+      /*   position: fixed;*/
+      /*   top: 163px;*/
+      /*   left: 58px;*/
+      /*}*/
     </style>
     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <!-- Created with Inkscape (http://www.inkscape.org/) -->
@@ -433,7 +448,22 @@
       <input type="text" id="Date_Text_Box">
    </div>
    <div id = "Name_Div">
-      <input type="text" id="Date_Text_Box">
+      <input type="text" id="Name_Text_Box">
+   </div>
+   <div id = "Location_Div">
+      <input type="text" id="Location_Text_Box">
+   </div>
+   <div id = "Number_Div">
+      <input type="text" id="Number_Text_Box">
+   </div>
+   <div id = "Tax_Div">
+      <input type="text" id="Tax_Text_Box">
+   </div>
+   <div id = "Total_Div">
+      <input type="text" id="Total_Text_Box">
+   </div>
+   <div id = "Given_Div">
+      <input type="text" id="Given_Text_Box">
    </div>
    <script>
       
@@ -442,12 +472,6 @@
    
       let Date_Div = document.getElementById("Date_Div");
       let Name_Div = document.getElementById("Name_Div");
-
-      Date_Div.style.top = "100px";
-      Date_Div.style.left = "100px";
-
-      Name_Div.style.top = "200px";
-      Name_Div.style.left = "100px"
 
    </script>
    </body>
