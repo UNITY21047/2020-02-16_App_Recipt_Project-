@@ -4,12 +4,11 @@ const  ipc = require("electron").ipcMain;
 function createWindow () {
   
   const win = new BrowserWindow({
-    width: "930px",
-    height: "730px",
+    width: 805,
+    height: 629,
     webPreferences: {
       nodeIntegration: true
-    },
-    //resizable: false
+    }
   })
   
   win.loadFile('index.html')
