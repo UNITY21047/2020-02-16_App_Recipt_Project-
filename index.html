@@ -1,56 +1,40 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Recipt Application</title>
-    <!-- https://electronjs.org/docs/tutorial/security#csp-meta-tag -->
-    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
-  </head>
-  <body id="bod">
-    <!-- <img 
-    src="C:\Users\werty\Downloads\tests\test-bash_scripts\electron-project\form_page.svg" 
-    alt=":( Page layout not found!"
-    height="600"
-    width="800" /> -->
-    <style>
 
-      body 
-      {
-         margin: 0;
-      }
-      #FORM
-      {
-         z-index: -1;
-      }
-      #Date_Div
-      {
-         position: fixed;
-         top: 93px;
-         left: 58px;
-      }
-      #Name_Div
-      {
-         position: fixed;
-         top: 163px;
-         left: 58px;
-      }
-      /*#Date_Div*/
-      /*{*/
-      /*   position: fixed;*/
-      /*   top: 93px;*/
-      /*   left: 58px;*/
-      /*}*/
-      /*#Name_Div*/
-      /*{*/
-      /*   position: fixed;*/
-      /*   top: 163px;*/
-      /*   left: 58px;*/
-      /*}*/
-    </style>
-    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-    <!-- Created with Inkscape (http://www.inkscape.org/) -->
-    
-    <svg
+   <head>
+
+      <meta charset="UTF-8">
+      <title>Recipt Application</title>
+      <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+
+   </head>
+
+   <body id="bod">
+
+      <style>
+         body 
+         {
+            margin: 0;
+         }
+         #FORM
+         {
+            z-index: -1;
+         }
+         #Date_Div
+         {
+            position: fixed;
+            top: 93px;
+            left: 58px;
+         }
+         #Name_Div
+         {
+            position: fixed;
+            top: 163px;
+            left: 58px;
+         }
+      </style>
+
+      <svg
        xmlns:dc="http://purl.org/dc/elements/1.1/"
        xmlns:cc="http://creativecommons.org/ns#"
        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -443,36 +427,59 @@
           </g>
         </g>
       </g>
-    </svg>
-   <div id = "Date_Div">
-      <input type="text" id="Date_Text_Box">
-   </div>
-   <div id = "Name_Div">
-      <input type="text" id="Name_Text_Box">
-   </div>
-   <div id = "Location_Div">
-      <input type="text" id="Location_Text_Box">
-   </div>
-   <div id = "Number_Div">
-      <input type="text" id="Number_Text_Box">
-   </div>
-   <div id = "Tax_Div">
-      <input type="text" id="Tax_Text_Box">
-   </div>
-   <div id = "Total_Div">
-      <input type="text" id="Total_Text_Box">
-   </div>
-   <div id = "Given_Div">
-      <input type="text" id="Given_Text_Box">
-   </div>
-   <script>
-      
-      document.getElementById('bod').style.height = '600px';
-      document.getElementById('bod').style.width = '800px';
-   
-      let Date_Div = document.getElementById("Date_Div");
-      let Name_Div = document.getElementById("Name_Div");
+      </svg>
 
-   </script>
+      <div id = "Date_Div">
+
+         <input type="text" id="Date_Text_Box">
+
+      </div>
+
+      <div id = "Name_Div">
+
+         <input type="text" id="Name_Text_Box">
+
+      </div>
+
+      <div id = "Location_Div">
+
+         <input type="text" id="Location_Text_Box">
+
+      </div>
+
+      <div id = "Number_Div">
+
+         <input type="text" id="Number_Text_Box">
+
+      </div>
+
+      <div id = "Tax_Div">
+
+         <input type="text" id="Tax_Text_Box">
+
+      </div>
+
+      <div id = "Total_Div">
+         
+         <input type="text" id="Total_Text_Box">
+
+      </div>
+
+      <div id = "Given_Div">
+
+         <input type="text" id="Given_Text_Box">
+
+      </div>
+
+      <script>
+
+         let Date_Div = document.getElementById("Date_Div");
+         let Name_Div = document.getElementById("Name_Div");
+         let Location_Div = document.getElementById("Location_Div");
+         let Number_Div = document.getElementById("Number_Div");
+         let Tax_Div = 
+      
+      </script>
+
    </body>
 </html>
