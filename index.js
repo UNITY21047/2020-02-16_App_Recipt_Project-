@@ -1,11 +1,16 @@
 const { app, BrowserWindow } = require('electron')
 const  ipc = require("electron").ipcMain;
 
-function createWindow () {
+let wlx = 805;
+let hlx = 630;
+let wwin = 815;
+let hwin = 657;
+function createWindow () 
+{
   
   const win = new BrowserWindow({
-    width: 805,
-    height: 630,
+    width: wwin,
+    height: hwin,
     webPreferences: {
       nodeIntegration: true
     }
