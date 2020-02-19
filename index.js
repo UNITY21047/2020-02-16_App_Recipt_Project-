@@ -4,8 +4,8 @@ const  ipc = require("electron").ipcMain;
 function createWindow () {
   
   const win = new BrowserWindow({
-    width: "800px",
-    height: "600px",
+    width: "930px",
+    height: "730px",
     webPreferences: {
       nodeIntegration: true
     },
