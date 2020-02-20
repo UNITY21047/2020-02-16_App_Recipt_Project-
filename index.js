@@ -43,10 +43,3 @@ app.on('activate', () => {
 
 
 
-//Run code on the window.
-ipc.on('load',function()
-{
-  
-  
-  
-});
