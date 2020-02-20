@@ -12,13 +12,7 @@
    <body id="bod">
 
       <style>
-
-         svg
-         {
-            margin: 0;
-            height: 600px;
-            width: 800px;
-         }
+         @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
          html, body 
          {
             width: 800px;
@@ -30,7 +24,13 @@
          {
             background-color: #2c302e;
          }
-         #FORM
+         svg
+         {
+            margin: 0;
+            height: 600px;
+            width: 800px;
+         }
+         #Form
          {
             z-index: -1;
          }
@@ -104,9 +104,29 @@
          {
             width: 238.9px
          }
-
+         #Original_Div
+         {
+            position: fixed;
+            left: 425px;
+            top: 150px;
+         }
+         #Original_Totals
+         {
+            font-family: 'Ubuntu', sans-serif;
+         }
+         #New_Div
+         {
+            position: fixed;
+            left: 425px;
+            top: 315px;
+         }
+         #New_Total
+         {
+            font-family: 'Ubuntu', sans-serif;
+         }
       </style>
 
+      <!--Only use svgs for backgrounds.-->
       <svg
        xmlns:dc="http://purl.org/dc/elements/1.1/"
        xmlns:cc="http://creativecommons.org/ns#"
@@ -119,7 +139,7 @@
        height="600"
        viewBox="0 0 211.66667 158.75"
        version="1.1"
-       id="FORM"
+       id="Form"
        inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
        sodipodi:docname="form_page.svg">
       <defs
@@ -502,48 +522,42 @@
       </g>
       </svg>
 
+      <!--Divs are good for moving around data.-->
       <div id = "Date_Div">
-
          <input type="text" id="Date_Text_Box">
-
       </div>
 
       <div id = "Name_Div">
-
          <input type="text" id="Name_Text_Box">
-
       </div>
 
       <div id = "Location_Div">
-
          <input type="text" id="Location_Text_Box">
-
       </div>
 
       <div id = "Number_Div">
-
          <input type="text" id="Number_Text_Box">
-
       </div>
 
       <div id = "Tax_Div">
-
          <input type="text" id="Tax_Text_Box">
-
       </div>
 
       <div id = "Total_Div">
-         
          <input type="text" id="Total_Text_Box">
-
       </div>
 
       <div id = "Given_Div">
-
          <input type="text" id="Given_Text_Box">
-
       </div>
 
+      <div id = "Original_Div">
+         <h2 id = "Original_Totals">Orginal Totals</h2>
+      </div>
+      
+      <div id = "New_Div">
+         <h2 id = "New_Total">New Totals</h2>
+      </div>
       <script>
 
          let Date_Div = document.getElementById("Date_Div");
@@ -554,6 +568,8 @@
          let Total_Div = document.getElementById("Total_Div");
          let Given_Div = document.getElementById("Given_Div");
          
+         
+
       </script>
 
    </body>
